@@ -1,0 +1,17 @@
+*node_modules
+data
+*dist
+*.tmp
+*.sass-cache
+*.swp
+*bower_components
+*.DS_Store
+*.pyc
+build
+*.egg-info
+*virtualenv_aud
+.project
+.pydevproject
+.editorconfig
+lala
+target
